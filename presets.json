@@ -1,0 +1,54 @@
+{
+  "presets": [
+    {
+      "name": {},
+      "dust_pw": 1000,
+      "frag_pw": 1000,
+      "dust_hz": 10,
+      "frag_hz": 22,
+      "dust_en": 0.7,
+      "frag_en": 1.2,
+      "id": 1531425163615
+    },
+    {
+      "name": "Keegan",
+      "dust_pw": 1600,
+      "frag_pw": 1800,
+      "dust_hz": 16,
+      "frag_hz": 12,
+      "dust_en": 0.4,
+      "frag_en": 0.9,
+      "id": 1531425250398
+    },
+    {
+      "name": "",
+      "dust_pw": 0,
+      "frag_pw": 0,
+      "dust_hz": 0,
+      "frag_hz": 0,
+      "dust_en": 0,
+      "frag_en": 0,
+      "id": 1531425314851
+    },
+    {
+      "name": "Braeden",
+      "dust_pw": 1100,
+      "frag_pw": 700,
+      "dust_hz": 14,
+      "frag_hz": 12,
+      "dust_en": 0.3,
+      "frag_en": 2.3,
+      "id": 1531425337083
+    },
+    {
+      "name": "Gene",
+      "dust_pw": 1300,
+      "frag_pw": 1300,
+      "dust_hz": 20,
+      "frag_hz": 18,
+      "dust_en": 0.7,
+      "frag_en": 0.2,
+      "id": 1531425991990
+    }
+  ]
+}

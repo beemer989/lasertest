@@ -1,0 +1,18 @@
+{
+  "name": "laserui",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Keegan Lawley",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.4"
+  },
+  "dependencies": {
+    "electron-db": "^0.8.1",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
